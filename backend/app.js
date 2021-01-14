@@ -10,7 +10,7 @@ const swaggerUI = require('swagger-ui-express');
 const swaggerOptions = {
     swaggerDefinition: {
         info: {
-            title: "Shop API",
+            title: "Magic Ecommers API",
             description: "Backend Api",
             contact: {
                 name: 'Amazing Developer'
